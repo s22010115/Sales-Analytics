@@ -1,15 +1,16 @@
-### Sales Analytics Project
+###Sales Analytics Project
 
-This project analyzes sales data and presents key insights using Power BI.
+This project analyzes sales data using Python and SQL, and visualizes key business insights through an interactive Power BI dashboard.
 
-#### Tools Used
+####Tools Used
 - Python (Pandas)
 - SQLite (SQL)
 - Power BI
 - Excel / CSV
 
-#### Key Analysis
-- Total Sales and Profit
+####Key Analysis & Dashboard Insights
+- Total Sales and Total Profit
 - Sales by Category and Region
-- Top 5 Products by Sales
+- Top 5 Products by Sales (Top N filter)
 - Monthly Sales Trend
+- Interactive filters and slicers for data exploration
