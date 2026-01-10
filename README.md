@@ -1,4 +1,4 @@
-### Sales Analytics Dashboard
+### Sales Analytics Project
 
 This project analyzes sales data and presents key insights using Power BI.
 
